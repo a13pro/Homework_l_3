@@ -62,5 +62,7 @@ public class Main {
     var salaryChristinaYearCurrent = salaryChristina*12;
     var salaryChristinaYearDifference = salaryChristina + salaryChristina*0.2;
         System.out.println("Christina now has " + salaryChristinaTopUp + " rubles per month. Her annual income increase on " + salaryChristinaYearDifference + " rubles");
+
+        // все
     }
 }
